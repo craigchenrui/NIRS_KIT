@@ -7,3 +7,10 @@
 NIRS-KIT is a Matlab-based toolbox for task and resting-state fNIRS data analysis.
 
 Please refer to NIRS_KIT_UserManual_HouXin.pptx to use it.
+
+
+
+----
+### Updata Log:
+
++ 2019-12-03: Repaired the bugs for data-convert HITACHI with a single probeset.
