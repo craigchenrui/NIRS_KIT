@@ -13,4 +13,4 @@ Please refer to NIRS_KIT_UserManual_HouXin.pptx to use it.
 ----
 ### Updata Log:
 
-+ 2019-12-03: Repaired the bugs for data-convert HITACHI with a single probeset.
++ 2019-12-03: Repaired the bugs for HITACHI data-convert  with a single probeset.
